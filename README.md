@@ -1,7 +1,6 @@
 # HW1
 HW1 : This is my solution of leetcode problem 14
 
-leetcode problem 14: 
 
 Write a function to find the longest common prefix string amongst an array of strings.
 
